@@ -4,8 +4,8 @@ import './globals.css'
 
 
 export const metadata: Metadata = {
-  title: 'Stock Manager | إدارة المخزون والمبيعات',
-  description: 'نظام ذكي لإدارة مخزون ومبيعات متاجر الجملة',
+  title: 'شمس الضيافة | متجر الجملة للمواد الغذائية',
+  description: 'متجر الجملة للمواد الغذائية: منتجات أصلية، أسعار منافسة، وتوصيل سريع لكل أنحاء الوطن.',
   generator: 'Stock Manager',
   icons: {
     icon: [
